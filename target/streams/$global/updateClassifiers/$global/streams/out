@@ -1,0 +1,500 @@
+[debug] :: resolving dependencies :: spechelper#spechelper$sources_javadoc_2.11;0.01.00
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->default(compile)]
+[info] Resolving org.scala-lang#scala-library;2.11.6 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@620fed8a
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.6
+[debug] 	found org.scala-lang#scala-library;2.11.6 in sbt-chain
+[debug] 	[2.11.6] org.scala-lang#scala-library;2.11.6
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->default(compile)]
+[info] Resolving commons-io#commons-io;2.4 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@373faf31
+[debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
+[debug] 	found commons-io#commons-io;2.4 in sbt-chain
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->default(compile)]
+[info] Resolving org.apache.commons#commons-math3;3.3 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@60fba7cb
+[debug] sbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.3
+[debug] 	found org.apache.commons#commons-math3;3.3 in sbt-chain
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->default(compile)]
+[info] Resolving jfree#jcommon;1.0.16 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@4f3d856d
+[debug] sbt-chain: module revision found in cache: jfree#jcommon;1.0.16
+[debug] 	found jfree#jcommon;1.0.16 in sbt-chain
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->default(compile)]
+[info] Resolving jfree#jfreechart;1.0.13 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@3a7b9151
+[debug] sbt-chain: module revision found in cache: jfree#jfreechart;1.0.13
+[debug] 	found jfree#jfreechart;1.0.13 in sbt-chain
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->master]
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [runtime]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->master]
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [test]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [runtime]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test->master]
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [provided]
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [optional]
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [compile-internal]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->master]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [optional]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [provided]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile-internal->master]
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [runtime-internal]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [runtime]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->master]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [optional]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime-internal->master]
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [test-internal]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [test]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [runtime]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [compile->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [runtime->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test->master]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [optional]
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [provided]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [test-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->commons-io#commons-io;2.4 [test-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.apache.commons#commons-math3;3.3 [test-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jcommon;1.0.16 [test-internal->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test-internal->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test-internal->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test-internal->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jfree#jfreechart;1.0.13 [test-internal->master]
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [plugin]
+[debug] resolving dependencies for configuration 'sources'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [sources]
+[debug] resolving dependencies for configuration 'docs'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [docs]
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [pom]
+[debug] resolving dependencies for configuration 'scala-tool'
+[debug] == resolving dependencies for spechelper#spechelper$sources_javadoc_2.11;0.01.00 [scala-tool]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [scala-tool->default(compile)]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [scala-tool->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [scala-tool->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-library;2.11.6 [scala-tool->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-compiler;2.11.6 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#scala-compiler;2.11.6 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.11.6 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.11.6
+[debug] 	found org.scala-lang#scala-compiler;2.11.6 in sbt-chain
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-compiler;2.11.6 [scala-tool->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-compiler;2.11.6 [scala-tool->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-compiler;2.11.6 [scala-tool->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-reflect;2.11.6 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang#scala-reflect;2.11.6 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.11.6 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.11.6
+[debug] 	found org.scala-lang#scala-reflect;2.11.6 in sbt-chain
+[debug] 	[2.11.6] org.scala-lang#scala-reflect;2.11.6
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-reflect;2.11.6 [scala-tool->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-reflect;2.11.6 [scala-tool->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang#scala-reflect;2.11.6 [scala-tool->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang.modules#scala-xml_2.11;1.0.3 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.11;1.0.3 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.11;1.0.3
+[debug] 	found org.scala-lang.modules#scala-xml_2.11;1.0.3 in sbt-chain
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang.modules#scala-xml_2.11;1.0.3 [scala-tool->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 [scala-tool->default(compile)]
+[info] Resolving org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3
+[debug] 	found org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 in sbt-chain
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 [scala-tool->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 [scala-tool->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3 [scala-tool->master]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jline#jline;2.12.1 [scala-tool->default(compile)]
+[info] Resolving jline#jline;2.12.1 ...
+[debug] sbt-chain: Checking cache for: dependency: jline#jline;2.12.1 {scala-tool=[default(compile)]}
+[debug] sbt-chain: module revision found in cache: jline#jline;2.12.1
+[debug] 	found jline#jline;2.12.1 in sbt-chain
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jline#jline;2.12.1 [scala-tool->runtime]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jline#jline;2.12.1 [scala-tool->compile]
+[debug] == resolving dependencies spechelper#spechelper$sources_javadoc_2.11;0.01.00->jline#jline;2.12.1 [scala-tool->master]
+[debug] 	resolved ivy file produced in cache
+[debug] :: downloading artifacts ::
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.6!scala-library.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.6!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.6!scala-library.jar
+[debug] 	[NOT REQUIRED] commons-io#commons-io;2.4!commons-io.jar(src)
+[debug] 	[NOT REQUIRED] commons-io#commons-io;2.4!commons-io.jar(doc)
+[debug] 	[NOT REQUIRED] commons-io#commons-io;2.4!commons-io.jar
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.3!commons-math3.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.3!commons-math3.jar(doc)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-math3;3.3!commons-math3.jar
+[debug] 	[NOT REQUIRED] jfree#jcommon;1.0.16!jcommon.jar(src)
+[debug] 	[NOT REQUIRED] jfree#jcommon;1.0.16!jcommon.jar
+[debug] 	[NOT REQUIRED] jfree#jcommon;1.0.16!jcommon.jar(doc)
+[debug] 	[NOT REQUIRED] jfree#jfreechart;1.0.13!jfreechart.jar
+[debug] 		tried C:\Users\cf\.ivy2\local\jfree\jfreechart\1.0.13\srcs\jfreechart-sources.jar
+[debug] 		tried https://repo1.maven.org/maven2/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] Host repo1.maven.org not found. url=https://repo1.maven.org/maven2/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://oss.sonatype.org/content/repositories/snapshots/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] Host oss.sonatype.org not found. url=http://oss.sonatype.org/content/repositories/snapshots/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://oss.sonatype.org/content/repositories/releases/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] Host oss.sonatype.org not found. url=http://oss.sonatype.org/content/repositories/releases/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://download.java.net/maven/2/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] Host download.java.net not found. url=http://download.java.net/maven/2/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://mvnrepository.com/artifact/cglib/cglib-nodep/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] Host mvnrepository.com not found. url=http://mvnrepository.com/artifact/cglib/cglib-nodep/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried https://repository.apache.org/content/repositories/snapshots/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] Host repository.apache.org not found. url=https://repository.apache.org/content/repositories/snapshots/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried https://oss.sonatype.org/content/repositories/public/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] Host oss.sonatype.org not found. url=https://oss.sonatype.org/content/repositories/public/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[debug] 		tried http://repo.typesafe.com/typesafe/maven-releases/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] Host repo.typesafe.com not found. url=http://repo.typesafe.com/typesafe/maven-releases/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[info] You probably access the destination server through a proxy server that is not well configured.
+[warn] 	[FAILED     ] jfree#jfreechart;1.0.13!jfreechart.jar(src):  (0ms)
+[warn] ==== local: tried
+[warn]   C:\Users\cf\.ivy2\local\jfree\jfreechart\1.0.13\srcs\jfreechart-sources.jar
+[warn] ==== public: tried
+[warn]   https://repo1.maven.org/maven2/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] ==== Sonatype snapshots: tried
+[warn]   http://oss.sonatype.org/content/repositories/snapshots/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] ==== Sonatype releases: tried
+[warn]   http://oss.sonatype.org/content/repositories/releases/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] ==== Java.net Maven2 Repository: tried
+[warn]   http://download.java.net/maven/2/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] ==== cglib: tried
+[warn]   http://mvnrepository.com/artifact/cglib/cglib-nodep/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] ==== apache.repo: tried
+[warn]   https://repository.apache.org/content/repositories/snapshots/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] ==== sonatype.repo: tried
+[warn]   https://oss.sonatype.org/content/repositories/public/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[warn] ==== Typesafe Releases: tried
+[warn]   http://repo.typesafe.com/typesafe/maven-releases/jfree/jfreechart/1.0.13/jfreechart-1.0.13-sources.jar
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.6!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.6!scala-compiler.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.6!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(doc)
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(src)
+[debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
+[debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(doc)
+[debug] :: resolution report :: resolve 1917ms :: artifacts dl 3080ms
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	::              FAILED DOWNLOADS            ::
+[warn] 	:: ^ see resolution messages for details  ^ ::
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[warn] 	:: jfree#jfreechart;1.0.13!jfreechart.jar(src)
+[warn] 	::::::::::::::::::::::::::::::::::::::::::::::
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 compile produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-compile.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 runtime produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-runtime.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 test produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-test.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 provided produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-provided.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 optional produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-optional.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 compile-internal produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-compile-internal.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 runtime-internal produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-runtime-internal.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 test-internal produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-test-internal.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 plugin produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-plugin.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 sources produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-sources.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 docs produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-docs.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 pom produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-pom.xml
+[debug] 	report for spechelper#spechelper$sources_javadoc_2.11;0.01.00 scala-tool produced in C:\Documents\Development\GIT\science\SpecHelper\target\resolution-cache\reports\spechelper-spechelper$sources_javadoc_2.11-scala-tool.xml
+[debug] 	resolve done (1917ms resolve - 3080ms download)

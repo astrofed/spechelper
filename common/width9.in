@@ -1,0 +1,7 @@
+ 0              0 usual print, 1 in place, 2 no print
+ 2 'fort.2'
+ 5 'width.inp'
+ 6 'width.out'     'null'
+13 'width9.tmp'
+16 'width9.res'
+ 1 'w9-NLTE.in'
