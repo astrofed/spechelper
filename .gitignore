@@ -22,8 +22,7 @@ src_managed/
 
 
 #intellij
-
-.idea
+.idea/
 .idea_modules
 
 #project
