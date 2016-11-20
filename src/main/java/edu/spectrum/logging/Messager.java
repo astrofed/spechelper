@@ -1,6 +1,5 @@
 package edu.spectrum.logging;
 
-import edu.spectrum.SpecHelper;
 import edu.spectrum.gui.SpecHelperFrame;
 import edu.spectrum.gui.StatusBar;
 
