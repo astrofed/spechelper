@@ -1,8 +1,8 @@
-name := "SpecHelper"
+name := "Spectrum"
 
-scalaVersion := "2.11.6"
+scalaVersion := "2.12.0"
 
-version := "0.01.00"
+version := "0.02.00"
 
 lazy val root = (project in file(".")).
   enablePlugins(BuildInfoPlugin).
@@ -29,9 +29,9 @@ resolvers ++= Seq(
 
 libraryDependencies ++= Seq(
   "commons-io" % "commons-io" % "2.4",
-  "org.apache.commons" % "commons-math3" % "3.3",
-  "jfree" % "jcommon" % "1.0.16",
-  "jfree" % "jfreechart" % "1.0.13"
+  "org.apache.commons" % "commons-math3" % "3.6.1",
+  "org.jfree" % "jcommon" % "1.0.23",
+  "org.jfree" % "jfreechart" % "1.0.19"
 )
 
 mainClass in assembly := Some("edu.spectrum.SpecHelper")
